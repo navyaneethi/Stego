@@ -1,2 +1,4 @@
 # Stego
-This file contains code that performs LSB steganography
+This repository contains code that performs 
+• LSB steganography
+• AES encryption
